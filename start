@@ -1,0 +1,7 @@
+if [ -f yavana.session ]; then
+    kill $(pgrep -f 'python3 -m Elizabeth')
+    rm -f yavana.session-journal yavana.session
+fi
+
+# start
+python3 -m yavana
