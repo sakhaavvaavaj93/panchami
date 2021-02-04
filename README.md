@@ -5,7 +5,7 @@
     <a href="https://github.com/sakhaavvaavaj93/yavana/network/members"><img src="https://img.shields.io/github/forks/sakhaavvaavaj93/yavana?label=Fork&style=flat-square&logo=github&color=F10070" alt="Fork" /></a>
 </p>
 
-![logo](https://telegra.ph/file/19469f4bdf8c118f472c5.jpg)
+![logo](https://telegra.ph/file/39c952b01e9d1d33e0afd.jpg)
 💌 Reach me on Telegram [𝐃𝐀𝐑𝐊𝐃𝐄𝐕𝐈𝐋](https://t.me/vaasukionfire7966)
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
